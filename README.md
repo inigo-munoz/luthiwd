@@ -30,7 +30,8 @@ Proyecto personal https://beemoving.netlify.app/.
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthiwd&show_icons=true&theme=radicaltitle_color=2f80ed)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthiwd&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 ## 📈 Other Stats
 
