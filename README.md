@@ -1,6 +1,5 @@
 # Hola, Soy Iñigo 👋
-<center>![Banner](banner.png)</center>
-
+![Banner](banner.png)
 
 
 
