@@ -1,5 +1,5 @@
 # Hola, Soy Iñigo 👋
-![Banner](banner.png)
+![Banner]<center>(banner.png)</center>
 
 
 
@@ -8,7 +8,7 @@
 
 Soy Junior Full-Stack Web Developer me gusta hacer que la vida de los demás sea más sencilla.
 
-## 👨‍💻 Actualmente Trabajando: 
+## 👨‍💻 Proyectos Actualmente Trabajando: 
 
 Proyecto personal https://beemoving.netlify.app/.
 
