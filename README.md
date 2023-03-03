@@ -19,7 +19,7 @@ Proyecto personal https://beemoving.netlify.app/.
   Demo Online: <a href="https://ecocajas.netlify.app/">DEMO</a><br><br>
 - Vinegar - Segundo proyecto en Ironhack - App para gestión de rutinas de ejercicios 🏋️‍♀️<br>
   ExpressJS && HandleBars && Javascript && HTML5 && CSS3 && BootstrapCSS<br>
-  Repositorio: <a href="https://github.com/Csriso/word-gym">Enlace</a><br>
+  Repositorio: <a href="https://github.com/luthiwd/vinegar">Enlace</a><br>
   Demo Online: <a href="https://vinegar-trainer.herokuapp.com/">DEMO</a><br><br>
 
 - Cats - Primer proyecto en Ironhack - Minijuego Arcade 🙀<br>
