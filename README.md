@@ -1,7 +1,3 @@
-Aquí va, listo para copiar:
-
----
-
 Íñigo Muñoz Jiménez
 Backend Developer & Technical Owner · PHP · Node.js · APIs · Integraciones · E-commerce
 📍 Huelva, España · 100% Remoto · linkedin.com/in/imjdev
